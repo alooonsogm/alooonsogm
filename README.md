@@ -40,9 +40,10 @@ Título Bachillerato De Ciencias - IES Neil Armstrong
 Grado Superior Desarrollo Aplicaciones Web (DAW) - IES Domenico Scarlatti
 
 🌐 Encuéntrame en
-[LinkedIn]{https://www.linkedin.com/in/alonsogarciamartin/}
 
-[Página Personal]{http://alonsogarcia2daw.es/}
+-[LinkedIn]{https://www.linkedin.com/in/alonsogarciamartin/}
+
+-[Página Personal]{http://alonsogarcia2daw.es/}
 
 ⚡ Datos Curiosos
 Me encanta resolver problemas técnicos y optimizar procesos.

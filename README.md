@@ -6,9 +6,11 @@
 
 ### 🚀 Sobre mí: Del Código a la Nube
 
-Soy Alonso, un arquitecto de software enfocado en la fusión de interfaces de usuario eficientes con infraestructuras multicloud escalables. Mi pasión es transformar requisitos complejos en soluciones limpias, mantenibles y seguras. Mi oficio es la ingeniería de software completa: desde la primera línea de CSS hasta el despliegue optimizado en AWS o Azure.
+Soy Alonso, Desarrollador Full Stack especializado en arquitecturas Multicloud. Mi labor consiste en diseñar y construir aplicaciones eficientes, abarcando el ciclo de vida completo del software: desde la creación de interfaces de usuario dinámicas hasta su despliegue y optimización en entornos cloud como AWS y Azure.
 
-> *"Mi enfoque se basa en una mentalidad analítica forjada por la adaptabilidad extrema y una obsesión por la resolución crítica de problemas. No solo escribo código, diseño sistemas."*
+Mi objetivo es transformar requisitos complejos en soluciones de código limpias, escalables y mantenibles, utilizando las mejores prácticas de desarrollo y un stack tecnológico versátil.
+
+> *"Más allá del código, mi enfoque técnico se complementa con una gran adaptabilidad, trabajo en equipo y una resolución ágil de problemas. Entiendo el desarrollo no solo como la escritura de software, sino como la entrega de soluciones tecnológicas que realmente aporten valor."*
 
 <br>
 

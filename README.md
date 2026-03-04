@@ -1,31 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Arquitecturas+Multicloud+Robustas+☁️;Full+Stack+Development+End-to-End+🚀;Resolución+Ágil+de+Problemas+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hola,+soy+Alonso+Garc%C3%ADa+Mart%C3%ADn+👋;Full+Stack+%26+Multicloud+Developer+🚀;Dise%C3%B1ando+arquitecturas+escalables+☁%EF%B8%8F" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Alonso García Martín</h1>
-<h3 align="center">Construyendo el puente entre interfaces de usuario eficientes y el despliegue escalable en la nube.</h3>
+<br>
 
-<p align="center">
-  <a href="mailto:TU_CORREO@EMAIL.COM">
-    <img src="https://img.shields.io/badge/Contactar-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=38BDF8&border=38BDF8" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/TU_URL_DE_LINKEDIN">
-    <img src="https://img.shields.io/badge/Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
-  </a>
-  <a href="TU_ENLACE_AL_PORTAFOLIO">
-    <img src="https://img.shields.io/badge/Portafolio-0D1117?style=for-the-badge&logo=rocket&logoColor=38BDF8" alt="Portfolio" />
-  </a>
-</p>
+## 🚀 Sobre mí: Del Código a la Nube
 
----
+Soy un desarrollador que entiende el software no como líneas aisladas, sino como un ecosistema completo. Mi formación técnica (DAW '25) combinada con mi especialización arquitectónica (Máster Full Stack + Multicloud en Tajamar '26), me permite dominar el **ciclo de vida íntegro de una aplicación**.
 
-## 👨‍💻 Filosofía de Ingeniería
+Antes de sumergirme de lleno en el código, mi experiencia en diversos entornos laborales forjó las *soft skills* que aplico en cada commit: **adaptabilidad extrema, toma de decisiones crítica y resolución ágil de problemas**. 
 
-Soy un desarrollador que entiende el software no como líneas aisladas, sino como un ecosistema. Mi formación técnica (DAW '25) combinada con mi especialización arquitectónica (Máster Full Stack + Multicloud en Tajamar '26), me permite dominar el **ciclo de vida completo de la aplicación**.
-
-Antes del código, aprendí la importancia del factor humano. Mi experiencia en entornos laborales diversos forjó las *soft skills* que aplico en cada commit: **adaptabilidad extrema, toma de decisiones crítica y una mentalidad orientada a la resolución ágil de problemas**. 
-
-Mi objetivo actual: Integrarme en un equipo de alto rendimiento donde pueda aportar valor técnico inmediato, absorbiendo conocimiento de profesionales experimentados para llevar mis desarrollos al siguiente nivel de madurez técnica.
+Mi objetivo actual es integrarme en un equipo de alto rendimiento donde pueda aportar valor técnico desde el primer día, aprendiendo de profesionales experimentados para llevar mis desarrollos al siguiente nivel.
 
 <br>
 
@@ -65,15 +50,29 @@ Mi objetivo actual: Integrarme en un equipo de alto rendimiento donde pueda apor
 
 <br>
 
-## 📊 Telemetría de Desarrollo
+## ⚡ Actividad y Rendimiento
 
-La teoría se demuestra compilando. Aquí reflejo mi actividad en proyectos reales, aplicando buenas prácticas y resolviendo escenarios complejos.
+La teoría se demuestra compilando. Así es como se ve mi actividad diaria traduciendo café en código estructurado y arquitecturas en la nube.
+
+<div align="center">
+  <a href="https://github.com/alooonsogm">
+    <img src="https://github-profile-trophy.vercel.app/?username=alooonsogm&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alooonsogm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alooonsogm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alooonsogm&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Estadísticas Generales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Lenguajes Top" />
-</p>
-
-<p align="center">
-  <i>"El mejor código es aquel que resuelve el problema del usuario de forma eficiente y mantenible."</i>
+  <i>"El mejor código es aquel que resuelve el problema del usuario de forma eficiente, escalable y mantenible."</i>
 </p>

@@ -1,56 +1,79 @@
-# 👋 ¡Hola! Soy Alonso García
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Arquitecturas+Multicloud+Robustas+☁️;Full+Stack+Development+End-to-End+🚀;Resolución+Ágil+de+Problemas+💡" alt="Typing SVG" />
+</div>
 
-## Desarrollador de Aplicaciones Web Junior
+<h1 align="center">Alonso García Martín</h1>
+<h3 align="center">Construyendo el puente entre interfaces de usuario eficientes y el despliegue escalable en la nube.</h3>
 
-Como desarrollador de aplicaciones web junior, acabo de finalizar mi formación en el segundo curso de Desarrollo de Aplicaciones Web (DAW), durante el cual he adquirido conocimientos sólidos en diversas tecnologías de desarrollo web como JavaScript, PHP, Java, HTML y CSS. Me apasiona el mundo de la programación y siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades.
+<p align="center">
+  <a href="mailto:TU_CORREO@EMAIL.COM">
+    <img src="https://img.shields.io/badge/Contactar-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=38BDF8&border=38BDF8" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/TU_URL_DE_LINKEDIN">
+    <img src="https://img.shields.io/badge/Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+  </a>
+  <a href="TU_ENLACE_AL_PORTAFOLIO">
+    <img src="https://img.shields.io/badge/Portafolio-0D1117?style=for-the-badge&logo=rocket&logoColor=38BDF8" alt="Portfolio" />
+  </a>
+</p>
 
-Durante mis estudios, he trabajado en proyectos académicos tanto de forma individual como en equipo, lo que me ha permitido desarrollar una gran capacidad para colaborar y comunicarme de manera efectiva con mis compañeros. Disfruto de los retos que surgen al trabajar en equipo, ya que creo que las diferentes perspectivas enriquecen el proceso de desarrollo.
+---
 
-Estoy muy motivado para seguir aprendiendo, y me gustaría poder aplicar los conocimientos adquiridos en proyectos reales y en el entorno profesional. Me considero una persona proactiva, con muchas ganas de mejorar y aportar valor a los equipos de trabajo en los que participe.
+## 👨‍💻 Filosofía de Ingeniería
 
-## 🚀 Tecnologías y Habilidades
+Soy un desarrollador que entiende el software no como líneas aisladas, sino como un ecosistema. Mi formación técnica (DAW '25) combinada con mi especialización arquitectónica (Máster Full Stack + Multicloud en Tajamar '26), me permite dominar el **ciclo de vida completo de la aplicación**.
 
-**Lenguajes de programación:**
-- JavaScript, PHP, Java
+Antes del código, aprendí la importancia del factor humano. Mi experiencia en entornos laborales diversos forjó las *soft skills* que aplico en cada commit: **adaptabilidad extrema, toma de decisiones crítica y una mentalidad orientada a la resolución ágil de problemas**. 
 
-**Desarrollo web:**
-- HTML, CSS
+Mi objetivo actual: Integrarme en un equipo de alto rendimiento donde pueda aportar valor técnico inmediato, absorbiendo conocimiento de profesionales experimentados para llevar mis desarrollos al siguiente nivel de madurez técnica.
 
-**Desarrollo Backend:**
-- PHP, bases de datos y Java
+<br>
 
-**Desarrollo Frontend:**
-- Experiencia en creación de interfaces responsivas y accesibles con HTML, CSS, JavaScript, Vue.js 
+## 🛠️ Stack Tecnológico & Ecosistema
 
-**Trabajo en equipo y colaboración**
-- Ganas de aprender y mejorar constantemente
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center"><b>🎨 Interfaz & Client-Side</b></td>
+      <td align="center"><b>⚙️ Lógica Core & APIs</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,angular,vue,ts,js,html,css,bootstrap" alt="Frontend Stack" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,java,php" alt="Backend Stack" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table border="0">
+    <tr>
+      <td align="center"><b>☁️ Arquitectura Multicloud, DevOps & Datos</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=azure,aws,docker,mysql,git,github" alt="Cloud and DevOps" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+        <img src="https://img.shields.io/badge/Power_Platform-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Power Platform" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🛠 Proyectos Destacados
+<br>
 
-### Aplicación de Inscripción en Cursos
-Esta aplicación se encarga de hacer una gestión de inscripción de cursos para profesores.
-**Tecnologías usadas:** HTML, CSS, PHP
+## 📊 Telemetría de Desarrollo
 
-### Aplicación Envia Postales
-Se trata de una aplicación programada en PHP que se encarga de enviar una postal dependiendo de la categoría de la foto a un servidor de correo, en este caso yo estoy usando el servidor de correo Axigen.
-**Tecnologías usadas:** HTML, CSS, PHP
+La teoría se demuestra compilando. Aquí reflejo mi actividad en proyectos reales, aplicando buenas prácticas y resolviendo escenarios complejos.
 
-## 📜 Educación
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Lenguajes Top" />
+</p>
 
-- **Título Bachillerato De Ciencias**
-  - IES Neil Armstrong
-- **Grado Superior en Desarrollo de Aplicaciones Web**
-  - I.E.S Domenico Scarlatti
-
-## 🌐 Encuéntrame en
-
-- [LinkedIn](https://www.linkedin.com/in/alonsogarciamartin/)
-- [Página Personal](http://alonsogarcia2daw.es/)
-
-## ⚡ Datos Curiosos
-
-- Me encanta resolver problemas técnicos y optimizar procesos.
-- Siempre estoy buscando maneras de mejorar y aprender nuevas habilidades.
-
-¡Disponible para colaborar en proyectos interesantes! 🚀
-
+<p align="center">
+  <i>"El mejor código es aquel que resuelve el problema del usuario de forma eficiente y mantenible."</i>
+</p>

@@ -63,7 +63,7 @@ Mirando hacia el futuro, tengo un objetivo claro: unirme a un proyecto donde pue
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/6A737D/alooonsogm" alt="Mapa de calor de contribuciones de Alonso" width="800" />
+  <img src="https://ghchart.rshah.org/FD971F/alooonsogm" alt="Mapa de calor de contribuciones de Alonso" width="800" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alooonsogm&theme=monokai_pro&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Arquitecto+de+Software;Ingenier%C3%ADa+Full+Stack+%26+Multicloud;Construyendo+sistemas+escalables+y+seguros" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&pause=1000&color=6A737D&center=true&vCenter=true&width=800&lines=Arquitecto+de+Software;Ingenier%C3%ADa+Full+Stack+%26+Multicloud;Construyendo+sistemas+escalables+y+seguros" alt="Typing SVG" />
 </div>
 
 <br>
@@ -47,7 +47,7 @@ Mi objetivo es transformar requisitos complejos en soluciones de código limpias
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/A855F7/alooonsogm" alt="Mapa de calor de contribuciones de Alonso" width="800" />
+  <img src="https://ghchart.rshah.org/6A737D/alooonsogm" alt="Mapa de calor de contribuciones de Alonso" width="800" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alooonsogm&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alooonsogm&theme=monokai_pro&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>

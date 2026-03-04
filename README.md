@@ -6,25 +6,9 @@
 
 ### 🚀 Sobre mí: Del Código a la Nube
 
-Soy Alonso García Martín, Desarrollador Web Full Stack con especialización en arquitecturas Multicloud. Mi labor consiste en diseñar y construir aplicaciones eficientes, abarcando desde la interfaz de usuario hasta su despliegue y optimización en la nube.    
+Soy Alonso, Desarrollador Full Stack especializado en arquitecturas Multicloud. Mi labor consiste en diseñar y construir aplicaciones eficientes, abarcando el ciclo de vida completo del software: desde la creación de interfaces de usuario dinámicas hasta su despliegue y optimización en entornos cloud como AWS y Azure.
 
-Mi trayectoria técnica tiene una formación continua y práctica. En 2025 finalicé el Grado Superior en Desarrollo de Aplicaciones Web (DAW), donde consolidé unas bases sólidas en programación. Posteriormente, en 2026, amplié mi visión arquitectónica completando el Máster en Desarrollo Web Full Stack + Multicloud en Tajamar, lo que me permite dominar y entender el ciclo de vida completo del software.    
-
-Antes de sumergirme de lleno en el código, me desarrollé en diversos entornos laborales durante 2023. Esta etapa fue clave para desarrollar habilidades importantes que hoy uso en mi día a día: adaptabilidad, resolución ágil de problemas, toma de decisiones, atención al cliente y el trabajo en equipo.    
-
-A lo largo de mi formación y proyectos, he consolidado un stack tecnológico que me permite afrontar retos variados.
-
-🖥️ Frontend: React, Angular, Vue.
-
-⚙️ Backend: C#, .NET, Python, Node.js, Java y PHP.
-
-☁️ Multicloud & Contenedores: Azure, AWS y Docker.
-
-🗄️ Bases de Datos & Enterprise: Oracle, SQL Server, MySQL y Power Platform.
-
-La mejor forma de demostrar este conocimiento es a través del código. En mi perfil de GitHub mantengo un portafolio activo con varios proyectos interesantes que resuelven escenarios reales y a los que te invito a echar un vistazo.
-
-Mirando hacia el futuro, tengo un objetivo claro: unirme a un proyecto donde pueda aportar valor mientras sigo formándome. Me motiva la idea de rodearme de profesionales experimentados de los que pueda aprender a diario, impulsando así mi mejora técnica, personal y profesional.
+Mi objetivo es transformar requisitos complejos en soluciones de código limpias, escalables y mantenibles, utilizando las mejores prácticas de desarrollo y un stack tecnológico versátil.
 
 > *"Más allá del código, mi enfoque técnico se complementa con una gran adaptabilidad, trabajo en equipo y una resolución ágil de problemas. Entiendo el desarrollo no solo como la escritura de software, sino como la entrega de soluciones tecnológicas que realmente aporten valor."*
 
@@ -63,7 +47,7 @@ Mirando hacia el futuro, tengo un objetivo claro: unirme a un proyecto donde pue
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/FD971F/alooonsogm" alt="Mapa de calor de contribuciones de Alonso" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alooonsogm&bg_color=0D1117&color=6A737D&line=FD971F&point=FFFFFF&hide_border=true&hide_title=true" alt="Gráfico de Actividad de Alonso" width="800" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alooonsogm&theme=monokai_pro&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>

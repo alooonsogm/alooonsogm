@@ -49,5 +49,5 @@ Mi objetivo es transformar requisitos complejos en soluciones de código limpias
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alooonsogm&bg_color=0D1117&color=6A737D&line=FD971F&point=FFFFFF&hide_border=true&hide_title=true" alt="Gráfico de Actividad de Alonso" width="800" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alooonsogm&theme=light&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alooonsogm&theme=dark&hide_border=true&background=0D1117&ring=FD971F&fire=FD971F&currStreakLabel=FD971F" alt="GitHub Streak" />
 </div>
